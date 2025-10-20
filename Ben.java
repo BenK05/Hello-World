@@ -8,10 +8,6 @@ public class Ben {
 
     }
 
-    public String getX(){
-
-        return null;
-    }
-
+    
     
 }
